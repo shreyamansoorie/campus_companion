@@ -1,4 +1,4 @@
-# campus-companion
+# campus_companion
 
 **Your campus life, organized in one place!**
 
